@@ -65,6 +65,6 @@ This project helps in understanding:
 - Sequential logic design
 - Clock-driven circuits
 - Verilog HDL coding practices
-- 
+  
 # Waveform
 <img width="1565" height="485" alt="SIPO 4 bit register" src="https://github.com/user-attachments/assets/e4639fb5-8224-4d2f-afcd-1b047d570673" />
